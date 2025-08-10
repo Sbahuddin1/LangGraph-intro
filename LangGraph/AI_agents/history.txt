@@ -1,0 +1,9 @@
+conversation logYou: hi there
+AI: Hi there! How can I help you today?
+
+You: tell me a joke
+AI: Why don't scientists trust atoms?
+
+Because they make up everything!
+
+End of converstion
